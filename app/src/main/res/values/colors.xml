@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#027bff</color>
+    <color name="purple_500">#027bff</color>
+    <color name="purple_700">#027bff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="app_color">#027bff</color>
+    <color name="gray_bg">#F8F8F8</color>
+    <color name="gray_text">#aaaaaa</color>
+    <color name="color_red">#ff0000</color>
+    <color name="dark_gray">#656565</color>
+    <color name="green_text">#52a34a</color>
+    <color name="edit_text_color">@color/black</color>
+    <color name="edit_text_hint">#787878</color>
+    <color name="button_bg_color">#027bff</color>
+    <color name="category_card_bg">#F2F2F2</color>
+    <color name="category_text">#3F3F3F</color>
+    <color name="unselect_menu">#CBCBCB</color>
+    <color name="drawer_selected">#F3F2F2</color>
+    <color name="drawer_ico">#5CB853</color>
+
+</resources>

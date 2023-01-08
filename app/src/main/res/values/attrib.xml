@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="text_field">
+        <attr name="focus" format="boolean" />
+        <attr name="isDropdown" format="boolean" />
+        <attr name="isDisablePlaceholder" format="boolean" />
+        <attr name="hint" format="string" />
+        <attr name="input_type" format="string" />
+        <attr name="placeholder" format="string" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>
