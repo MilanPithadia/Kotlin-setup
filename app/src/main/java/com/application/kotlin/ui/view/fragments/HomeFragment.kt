@@ -10,18 +10,6 @@ import androidx.fragment.app.Fragment
 import com.application.kotlin.databinding.FragmentHomeBinding
 import com.application.kotlin.ui.view.LoginActivity
 import com.application.kotlin.utils.PreferenceHelper
-import com.ketan.app.Inquiry.InquiryListActivity
-import com.ketan.app.Sales.SalesListActivity
-import com.ketan.app.attendance.AttendanceActivity
-import com.ketan.app.controls.Const
-import com.ketan.app.controls.PreferenceHelper
-import com.ketan.app.databinding.FragmentHomeBinding
-import com.ketan.app.login.LoginActivity
-import com.ketan.app.network.BackService
-import com.ketan.app.receipt.ReceiptListActivity
-import com.ketan.app.report.ReportActivity
-import com.ketan.app.schemes.SchemesActivity
-import com.ketan.app.stock.StockActivity
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

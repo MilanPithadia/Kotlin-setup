@@ -1,17 +1,13 @@
 package com.application.kotlin.ui.view
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
-import androidx.appcompat.app.AppCompatActivity
 import com.application.kotlin.BaseActivity
 import com.application.kotlin.R
 import com.application.kotlin.databinding.ActivityMainBinding
-import com.application.kotlin.databinding.ItemCountryBinding
 import com.application.kotlin.ui.viewmode.MainViewModel
-import com.application.kotlin.utils.Const
-import com.example.myapplication.BaseRecyclerAdapter
+import com.ketan.app.fragments.HomeFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 
